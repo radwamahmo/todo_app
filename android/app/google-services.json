@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645707915400",
+    "project_id": "todo-friday-ea2a2",
+    "storage_bucket": "todo-friday-ea2a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645707915400:android:d0a45e039134e18223bf3d",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz0sZBAaSc_pjxvAgaWlFuNb3KwxL50J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
